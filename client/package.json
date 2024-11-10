@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.4",
+    "auth0-js": "^9.28.0",
+    "axios": "^1.7.7",
+    "chart.js": "^4.4.6",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "json.schemas": [
+    {
+      "fileMatch": ["package.json"],
+      "url": "./schemas/partial-eslint-plugins.json"
+    }
+  ]
+}
